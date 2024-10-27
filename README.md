@@ -23,5 +23,12 @@ When it comes to accuracy, speed, and resource usage. The proposed method has th
 
 You can find the doi from this website: http://dx.doi.org/10.12785/ijcds/1601125
 
+## Steps for Running & Testing
+
+1. Download the dataset from the Kaggle link
+2. Go through the steps and run the file of Pre-processing.ipynb first
+3. Run FYP_models.ipynb
+4. Finally run the GUI.py for the streamlit apps testing.
+
 ## Reference
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
